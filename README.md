@@ -3,7 +3,7 @@
 
 # talented Manager bot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2fran_x_queen%2talented bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2xditya%2GroupManager)
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
